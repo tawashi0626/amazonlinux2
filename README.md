@@ -1,1 +1,1 @@
-# amazonlinux2
+# AmazonLinux2
